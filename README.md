@@ -27,6 +27,8 @@ To-Do:
 From: https://github.com/JamieBort/RoundingErrorsJavaLightingTalk
 
 Name: MagicTheGathering-2-ManaCodeWarsJavaScrip
+
 Descrition: MagicTheGathering#2:Mana CodeWars JavaScrip
+
 URL to old repository: https://github.com/JamieBort/MagicTheGathering-2-ManaCodeWarsJavaScrip
 
