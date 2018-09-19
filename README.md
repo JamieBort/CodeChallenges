@@ -24,11 +24,10 @@ To-Do:
 
 [Josh's repository for the pair programming he and I have been doing.](https://github.com/JoshEdgell/pairprogramming)
 
-From: https://github.com/JamieBort/RoundingErrorsJavaLightingTalk
-
 Name: MagicTheGathering-2-ManaCodeWarsJavaScrip
-
 Descrition: MagicTheGathering#2:Mana CodeWars JavaScrip
-
 URL to old repository: https://github.com/JamieBort/MagicTheGathering-2-ManaCodeWarsJavaScrip
 
+Name: 
+Descrition: 
+URL to old repository: 
