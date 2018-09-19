@@ -3,7 +3,8 @@ Repository for all the online challenges I work on.
 
 To-Do:
 
-[] 1.   Move the following repositories into this one. Make note of the following:
+[] 1.
+    Move the following repositories into this one. Make note of the following:
 
             a. which language
             b. which website
