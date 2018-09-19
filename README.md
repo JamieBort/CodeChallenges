@@ -9,8 +9,9 @@ To-Do:
     b. which website
     c. who, if anyone, I pair programmed with
     d. and whether the challenge was complete.
+    
         Follow this procedure:
-        
+
             a. One by one move it into this repository.
             b. Delete the old repository.
             c. Move one more into this repository.
