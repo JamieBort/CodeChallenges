@@ -80,16 +80,16 @@ Descrition: FindAllArrayValuesThatFallWithinAGivenDifference, CodeWars, JavaScri
 URL to old repository: https://github.com/JamieBort/FindAllArrayValuesThatFallWithinAGivenDifferenceCodeWarsJavaScript
 ```
 
-Name: [AlphabetWar-WoLoLooooooPriestsJoinTheWarCodeWarsJavaScript]()
+Name: [AlphabetWar-WoLoLooooooPriestsJoinTheWarCodeWarsJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/AlphabetWar-WoLoLooooooPriestsJoinTheWarCodeWarsJavaScript)
 ```
 Descrition: AlphabetWar-WoLoLooooooPriestsJoinTheWar, CodeWars, JavaScript,
 URL to old repository: https://github.com/JamieBort/AlphabetWar-WoLoLooooooPriestsJoinTheWarCodeWarsJavaScript
 ```
 
-Name: []()
+Name: [PrimesInNumbersCodewarsJavaScript]()
 ```
-Descrition:
-URL to old repository: 
+Descrition: PrimesInNumbers, Codewars, JavaScript,
+URL to old repository: https://github.com/JamieBort/PrimesInNumbersCodewarsJavaScript
 ```
 
 Name: []()
