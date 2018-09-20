@@ -104,16 +104,16 @@ Descrition: MexicanWave, CodeWars, JavaScript,
 URL to old repository: https://github.com/JamieBort/MexicanWaveCodeWarsJavaScript
 ```
 
-Name: [LetterChangesCoderByteJavaScript]()
+Name: [LetterChangesCoderByteJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/LetterChangesCoderByteJavaScript)
 ```
 Descrition: LetterChanges, CoderByte, JavaScript,
 URL to old repository: https://github.com/JamieBort/LetterChangesCoderByteJavaScript
 ```
 
-Name: []()
+Name: [AlphabetSoupCoderByteJavaScript]()
 ```
-Descrition:
-URL to old repository: 
+Descrition: AlphabetSoup, CoderByte, JavaScript,
+URL to old repository: https://github.com/JamieBort/AlphabetSoupCoderByteJavaScript
 ```
 
 Name: []()
