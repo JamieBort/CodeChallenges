@@ -4,15 +4,15 @@ Repository for all the online challenges I work on.
 To-Do:
 
 [] 1. 
-a line
+        a line
 
-        a. sklasjdf;
-        b. adkfda;
+                a. sklasjdf;
+                b. adkfda;
 
-another line
+        another line
 
-        e. adkljf
-        g. ajkdla
+                e. adkljf
+                g. ajkdla
 
 
     Move the following repositories into this one. Make note of the following:
