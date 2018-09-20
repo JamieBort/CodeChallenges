@@ -68,22 +68,22 @@ Descrition: CaesarCipher, JavaScript, Pair programmed with Josh Edgell,
 URL to old repository: https://github.com/JamieBort/CaesarCipherJavaScript
 ```
 
-Name: [CalculateAverageCodeWarsJava]()
+Name: [CalculateAverageCodeWarsJava](https://github.com/JamieBort/CodeChallenges/tree/master/CalculateAverageCodeWarsJava)
 ```
 Descrition: Completed CalculateAverage, CodeWars, Java, 
 URL to old repository: https://github.com/JamieBort/CalculateAverageCodeWarsJava
 ```
 
-Name: [FindAllArrayValuesThatFallWithinAGivenDifferenceCodeWarsJavaScript]()
+Name: [FindAllArrayValuesThatFallWithinAGivenDifferenceCodeWarsJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/FindAllArrayValuesThatFallWithinAGivenDifferenceCodeWarsJavaScript)
 ```
 Descrition: FindAllArrayValuesThatFallWithinAGivenDifference, CodeWars, JavaScript, 
 URL to old repository: https://github.com/JamieBort/FindAllArrayValuesThatFallWithinAGivenDifferenceCodeWarsJavaScript
 ```
 
-Name: []()
+Name: [AlphabetWar-WoLoLooooooPriestsJoinTheWarCodeWarsJavaScript]()
 ```
-Descrition:
-URL to old repository: 
+Descrition: AlphabetWar-WoLoLooooooPriestsJoinTheWar, CodeWars, JavaScript,
+URL to old repository: https://github.com/JamieBort/AlphabetWar-WoLoLooooooPriestsJoinTheWarCodeWarsJavaScript
 ```
 
 Name: []()
