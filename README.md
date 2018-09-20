@@ -31,11 +31,11 @@ Descrition: MagicTheGathering#2:Mana CodeWars JavaScrip
 URL to old repository: https://github.com/JamieBort/MagicTheGathering-2-ManaCodeWarsJavaScrip
 
 
-* Name: LargeSumCodeWarsJava
-* Descrition: LargeSum CodeWars Java
-* URL to old repository: https://github.com/JamieBort/LargeSumCodeWarsJava
+Name: LargeSumCodeWarsJava
+Descrition: LargeSum CodeWars Java
+URL to old repository: https://github.com/JamieBort/LargeSumCodeWarsJava
 
 
-* Name: [EnoughIsEnough](https://github.com/JamieBort/CodeChallenges/tree/master/EnoughIsEnough)
-* Descrition: JavaScript, CodeWars, Pair Programmed with Josh Edgell, Completed
-* URL to old repository: [doesn't exist]
+Name: [EnoughIsEnough](https://github.com/JamieBort/CodeChallenges/tree/master/EnoughIsEnough)
+Descrition: JavaScript, CodeWars, Pair Programmed with Josh Edgell, Completed
+URL to old repository: [doesn't exist]
