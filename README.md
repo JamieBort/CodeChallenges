@@ -4,26 +4,14 @@ Repository for all the online challenges I work on.
 To-Do:
 
 [] 1. 
-        a line
-
-                a. sklasjdf;
-                b. adkfda;
-
-        another line
-
-                e. adkljf
-                g. ajkdla
-
-
-    Move the following repositories into this one. Make note of the following:
+        Move the following repositories into this one. Make note of the following:
 
             a. which language
             b. which website
             c. who, if anyone, I pair programmed with
             d. and whether the challenge was complete.
 
-
-    Follow this procedure:
+        Follow this procedure:
 
             a. One by one move it into this repository.
             b. Delete the old repository.
