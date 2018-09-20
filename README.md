@@ -22,10 +22,12 @@ To-Do:
 [X] 2. Also, make note of Josh's repository here too.
 
 [Josh's repository for the pair programming he and I have been doing.](https://github.com/JoshEdgell/pairprogramming)
+====================================
+====================================
 
 Name: [MagicTheGathering-2-ManaCodeWarsJavaScrip](https://github.com/JamieBort/CodeChallenges/tree/master/MagicTheGathering-2-ManaCodeWarsJavaScrip)
 ```
-Descrition: MagicTheGathering#2:Mana CodeWars JavaScrip
+Descrition: MagicTheGathering#2:Mana, CodeWars, JavaScrip, Pair Programmed with Josh Edgell, Completed
 URL to old repository: https://github.com/JamieBort/MagicTheGathering-2-ManaCodeWarsJavaScrip
 ```
 
