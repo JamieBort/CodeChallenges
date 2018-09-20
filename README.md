@@ -122,16 +122,16 @@ Descrition: QuestionsMarks, Coderbyte, JavaScript,
 URL to old repository: https://github.com/JamieBort/QuestionsMarksCoderbyteJavaScript
 ```
 
-Name: [SumSquareDifference]()
+Name: [SumSquareDifference](https://github.com/JamieBort/CodeChallenges/tree/master/SumSquareDifference)
 ```
 Descrition: SumSquareDifference, projecteuler, Java, Completed
 URL to old repository: https://github.com/JamieBort/SumSquareDifference
 ```
 
-Name: []()
+Name: [LargestPalindromeProductProjectEulerJavaScript]()
 ```
-Descrition:
-URL to old repository: 
+Descrition: LargestPalindromeProduct, ProjectEuler, JavaScript,
+URL to old repository: https://github.com/JamieBort/LargestPalindromeProductProjectEulerJavaScript
 ```
 
 Name: []()
