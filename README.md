@@ -31,7 +31,8 @@ URL to old repository: https://github.com/JamieBort/MagicTheGathering-2-ManaCode
 
 
 Name: [LargeSumCodeWarsJava](https://github.com/JamieBort/CodeChallenges/tree/master/LargeSumCodeWarsJava)
-```Descrition: LargeSum CodeWars Java
+```
+Descrition: LargeSum CodeWars Java
 URL to old repository: https://github.com/JamieBort/LargeSumCodeWarsJava
 ```
 
