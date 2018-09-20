@@ -116,16 +116,16 @@ Descrition: AlphabetSoup, CoderByte, JavaScript,
 URL to old repository: https://github.com/JamieBort/AlphabetSoupCoderByteJavaScript
 ```
 
-Name: []()
+Name: [QuestionsMarksCoderbyteJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/QuestionsMarksCoderbyteJavaScript)
 ```
-Descrition:
-URL to old repository: 
+Descrition: QuestionsMarks, Coderbyte, JavaScript,
+URL to old repository: https://github.com/JamieBort/QuestionsMarksCoderbyteJavaScript
 ```
 
-Name: []()
+Name: [SumSquareDifference]()
 ```
-Descrition:
-URL to old repository: 
+Descrition: SumSquareDifference, projecteuler, Java, Completed
+URL to old repository: https://github.com/JamieBort/SumSquareDifference
 ```
 
 Name: []()
