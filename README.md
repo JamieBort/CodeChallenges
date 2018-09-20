@@ -49,3 +49,45 @@ Name: [AmISafeToDriveCodeWarsJavaScript](https://github.com/JamieBort/CodeChalle
 Descrition: AmISafeToDrive, CodeWars, JavaScript, Pair programmed with Josh Edgell, 
 URL to old repository: https://github.com/JamieBort/AmISafeToDriveCodeWarsJavaScript
 ```
+
+Name: [TwoFightersOneWinnerCodeWarsJava](https://github.com/JamieBort/CodeChallenges/tree/master/TwoFightersOneWinnerCodeWarsJava)
+```
+Descrition: TwoFightersOneWinner, CodeWars, Java,
+URL to old repository: https://github.com/JamieBort/TwoFightersOneWinnerCodeWarsJava
+```
+
+Name: [TheSupermarketQueueJavaScriptCodeWars]()
+```
+Descrition: TheSupermarketQueue, JavaScript, CodeWars, Not done
+URL to old repository: https://github.com/JamieBort/TheSupermarketQueueJavaScriptCodeWars
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
