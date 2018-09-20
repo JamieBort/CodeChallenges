@@ -36,7 +36,6 @@ URL to old repository: https://github.com/JamieBort/MagicTheGathering-2-ManaCode
 * URL to old repository: https://github.com/JamieBort/LargeSumCodeWarsJava
 
 
-* Name: EnoughIsEnough
-* Descrition: JavaScript, CodeWars, Pair Programeed with Josh Edgell, Completed
+* Name: [EnoughIsEnough](https://github.com/JamieBort/CodeChallenges/tree/master/EnoughIsEnough)
+* Descrition: JavaScript, CodeWars, Pair Programmed with Josh Edgell, Completed
 * URL to old repository: [doesn't exist]
-* URL to New repository: https://github.com/JamieBort/CodeChallenges/tree/master/EnoughIsEnough
