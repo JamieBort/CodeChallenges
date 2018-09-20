@@ -68,6 +68,54 @@ Descrition: CaesarCipher, JavaScript, Pair programmed with Josh Edgell,
 URL to old repository: https://github.com/JamieBort/CaesarCipherJavaScript
 ```
 
+Name: [CalculateAverageCodeWarsJava]()
+```
+Descrition: Completed CalculateAverage, CodeWars, Java, 
+URL to old repository: https://github.com/JamieBort/CalculateAverageCodeWarsJava
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
+Name: []()
+```
+Descrition:
+URL to old repository: 
+```
+
 Name: []()
 ```
 Descrition:
