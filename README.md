@@ -110,7 +110,7 @@ Descrition: LetterChanges, CoderByte, JavaScript,
 URL to old repository: https://github.com/JamieBort/LetterChangesCoderByteJavaScript
 ```
 
-Name: [AlphabetSoupCoderByteJavaScript]()
+Name: [AlphabetSoupCoderByteJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/AlphabetSoupCoderByteJavaScript)
 ```
 Descrition: AlphabetSoup, CoderByte, JavaScript,
 URL to old repository: https://github.com/JamieBort/AlphabetSoupCoderByteJavaScript
