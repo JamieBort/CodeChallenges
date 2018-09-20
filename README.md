@@ -23,7 +23,10 @@ To-Do:
 
 [Josh's repository for the pair programming he and I have been doing.](https://github.com/JoshEdgell/pairprogramming)
 
-
+========================================================================
+Project Euler website:
+Codewars website:
+Coder Byte website:
 ========================================================================
 
 Name: [MagicTheGathering-2-ManaCodeWarsJavaScrip](https://github.com/JamieBort/CodeChallenges/tree/master/MagicTheGathering-2-ManaCodeWarsJavaScrip)
@@ -128,7 +131,7 @@ Descrition: SumSquareDifference, projecteuler, Java, Completed
 URL to old repository: https://github.com/JamieBort/SumSquareDifference
 ```
 
-Name: [LargestPalindromeProductProjectEulerJavaScript]()
+Name: [LargestPalindromeProductProjectEulerJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/LargestPalindromeProductProjectEulerJavaScript)
 ```
 Descrition: LargestPalindromeProduct, ProjectEuler, JavaScript,
 URL to old repository: https://github.com/JamieBort/LargestPalindromeProductProjectEulerJavaScript
