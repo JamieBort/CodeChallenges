@@ -44,3 +44,9 @@ Name: [EnoughIsEnough](https://github.com/JamieBort/CodeChallenges/tree/master/E
 Descrition: JavaScript, CodeWars, Pair Programmed with Josh Edgell, Completed
 URL to old repository: [doesn't exist]
 ```
+
+Name: [AmISafeToDriveCodeWarsJavaScript]()
+```
+Descrition: AmISafeToDrive, CodeWars, JavaScript, Pair programmed with Josh Edgell, 
+URL to old repository: https://github.com/JamieBort/AmISafeToDriveCodeWarsJavaScript
+```
