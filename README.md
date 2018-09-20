@@ -74,10 +74,10 @@ Descrition: Completed CalculateAverage, CodeWars, Java,
 URL to old repository: https://github.com/JamieBort/CalculateAverageCodeWarsJava
 ```
 
-Name: []()
+Name: [FindAllArrayValuesThatFallWithinAGivenDifferenceCodeWarsJavaScript]()
 ```
-Descrition:
-URL to old repository: 
+Descrition: FindAllArrayValuesThatFallWithinAGivenDifference, CodeWars, JavaScript, 
+URL to old repository: https://github.com/JamieBort/FindAllArrayValuesThatFallWithinAGivenDifferenceCodeWarsJavaScript
 ```
 
 Name: []()
