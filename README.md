@@ -23,11 +23,11 @@ To-Do:
 
 [Josh's repository for the pair programming he and I have been doing.](https://github.com/JoshEdgell/pairprogramming)
 
-Name: MagicTheGathering-2-ManaCodeWarsJavaScrip
-
+Name: [MagicTheGathering-2-ManaCodeWarsJavaScrip](https://github.com/JamieBort/CodeChallenges/tree/master/MagicTheGathering-2-ManaCodeWarsJavaScrip)
+```
 Descrition: MagicTheGathering#2:Mana CodeWars JavaScrip
-
 URL to old repository: https://github.com/JamieBort/MagicTheGathering-2-ManaCodeWarsJavaScrip
+```
 
 
 Name: [LargeSumCodeWarsJava](https://github.com/JamieBort/CodeChallenges/tree/master/LargeSumCodeWarsJava)
