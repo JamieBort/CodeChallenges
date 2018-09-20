@@ -98,16 +98,16 @@ Descrition: DoubleCola, CodeWars, JavaScript,
 URL to old repository: https://github.com/JamieBort/DoubleColaCodeWarsJavaScript
 ```
 
-Name: []()
+Name: [MexicanWaveCodeWarsJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/MexicanWaveCodeWarsJavaScript)
 ```
-Descrition:
-URL to old repository: 
+Descrition: MexicanWave, CodeWars, JavaScript,
+URL to old repository: https://github.com/JamieBort/MexicanWaveCodeWarsJavaScript
 ```
 
-Name: []()
+Name: [LetterChangesCoderByteJavaScript]()
 ```
-Descrition:
-URL to old repository: 
+Descrition: LetterChanges, CoderByte, JavaScript,
+URL to old repository: https://github.com/JamieBort/LetterChangesCoderByteJavaScript
 ```
 
 Name: []()
