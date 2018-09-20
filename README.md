@@ -29,14 +29,13 @@ To-Do:
 Name: [MagicTheGathering-2-ManaCodeWarsJavaScrip](https://github.com/JamieBort/CodeChallenges/tree/master/MagicTheGathering-2-ManaCodeWarsJavaScrip)
 ```
 Descrition: MagicTheGathering#2:Mana, CodeWars, JavaScrip, Pair Programmed with Josh Edgell, 
-URL to old repository: https://github.com/JamieBort/MagicTheGathering-2-ManaCodeWarsJavaScrip
+URL to old repository: https://github.com/JamieBort/MagicTheGathering-2-ManaCodeWarsJavaScrip DELETED
 ```
-
 
 Name: [LargeSumCodeWarsJava](https://github.com/JamieBort/CodeChallenges/tree/master/LargeSumCodeWarsJava)
 ```
 Descrition: LargeSum CodeWars Java
-URL to old repository: https://github.com/JamieBort/LargeSumCodeWarsJava
+URL to old repository: https://github.com/JamieBort/LargeSumCodeWarsJava DELETED
 ```
 
 Name: [EnoughIsEnough](https://github.com/JamieBort/CodeChallenges/tree/master/EnoughIsEnough)
@@ -45,7 +44,7 @@ Descrition: JavaScript, CodeWars, Pair Programmed with Josh Edgell, Completed
 URL to old repository: [doesn't exist]
 ```
 
-Name: [AmISafeToDriveCodeWarsJavaScript]()
+Name: [AmISafeToDriveCodeWarsJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/AmISafeToDriveCodeWarsJavaScript)
 ```
 Descrition: AmISafeToDrive, CodeWars, JavaScript, Pair programmed with Josh Edgell, 
 URL to old repository: https://github.com/JamieBort/AmISafeToDriveCodeWarsJavaScript
