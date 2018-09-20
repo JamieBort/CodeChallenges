@@ -151,10 +151,9 @@ PrimeKFactorialProjectEulerJavaScript
 SmallestMultipleProjectEulerJavaScript
 Found here: https://github.com/JamieBort?utf8=%E2%9C%93&tab=repositories&q=projecteuler&type=&language=
 
-Name: []()
+Name: [BattleShipsSunkDamagedOrNotTouched](https://github.com/JamieBort/CodeChallenges/tree/master/BattleShipsSunkDamagedOrNotTouched)
 ```
-Descrition: 
-URL to old repository: 
+Descrition: Pair protrammed with Josh Edgell, CodeWars, JavaScript
 ```
 
 Name: []()
