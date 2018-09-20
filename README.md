@@ -27,7 +27,7 @@ To-Do:
 
 Name: [MagicTheGathering-2-ManaCodeWarsJavaScrip](https://github.com/JamieBort/CodeChallenges/tree/master/MagicTheGathering-2-ManaCodeWarsJavaScrip)
 ```
-Descrition: MagicTheGathering#2:Mana, CodeWars, JavaScrip, Pair Programmed with Josh Edgell, Completed
+Descrition: MagicTheGathering#2:Mana, CodeWars, JavaScrip, Pair Programmed with Josh Edgell, 
 URL to old repository: https://github.com/JamieBort/MagicTheGathering-2-ManaCodeWarsJavaScrip
 ```
 
