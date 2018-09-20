@@ -137,15 +137,23 @@ Descrition: LargestPalindromeProduct, ProjectEuler, JavaScript,
 URL to old repository: https://github.com/JamieBort/LargestPalindromeProductProjectEulerJavaScript
 ```
 
-Name: [MultiplesOf3And5ProjectEulerJavaScript]()
+Name: [MultiplesOf3And5ProjectEulerJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/MultiplesOf3And5ProjectEulerJavaScript)
 ```
 Descrition: MultiplesOf3And5, ProjectEuler, JavaScript,
 URL to old repository: https://github.com/JamieBort/MultiplesOf3And5ProjectEulerJavaScript
 ```
 
+Next, move these:
+EvenFibonacciNumbersProjectEulerJavaScript
+FactorialDigitSumProjectEulerJavaScript
+LargestPrimeFactorProjectEulerJavaScript
+PrimeKFactorialProjectEulerJavaScript
+SmallestMultipleProjectEulerJavaScript
+Found here: https://github.com/JamieBort?utf8=%E2%9C%93&tab=repositories&q=projecteuler&type=&language=
+
 Name: []()
 ```
-Descrition:
+Descrition: 
 URL to old repository: 
 ```
 
