@@ -86,16 +86,16 @@ Descrition: AlphabetWar-WoLoLooooooPriestsJoinTheWar, CodeWars, JavaScript,
 URL to old repository: https://github.com/JamieBort/AlphabetWar-WoLoLooooooPriestsJoinTheWarCodeWarsJavaScript
 ```
 
-Name: [PrimesInNumbersCodewarsJavaScript]()
+Name: [PrimesInNumbersCodewarsJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/PrimesInNumbersCodewarsJavaScript)
 ```
 Descrition: PrimesInNumbers, Codewars, JavaScript,
 URL to old repository: https://github.com/JamieBort/PrimesInNumbersCodewarsJavaScript
 ```
 
-Name: []()
+Name: [DoubleColaCodeWarsJavaScript]()
 ```
-Descrition:
-URL to old repository: 
+Descrition: DoubleCola, CodeWars, JavaScript,
+URL to old repository: https://github.com/JamieBort/DoubleColaCodeWarsJavaScript
 ```
 
 Name: []()
