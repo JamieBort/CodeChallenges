@@ -92,7 +92,7 @@ Descrition: PrimesInNumbers, Codewars, JavaScript,
 URL to old repository: https://github.com/JamieBort/PrimesInNumbersCodewarsJavaScript
 ```
 
-Name: [DoubleColaCodeWarsJavaScript]()
+Name: [DoubleColaCodeWarsJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/DoubleColaCodeWarsJavaScript)
 ```
 Descrition: DoubleCola, CodeWars, JavaScript,
 URL to old repository: https://github.com/JamieBort/DoubleColaCodeWarsJavaScript
