@@ -26,9 +26,10 @@ To-Do:
 ========================================================================
 
 Coding Challenge Websites:
-[Project Euler](https://projecteuler.net/)
-[Codewars](https://www.codewars.com/)
-[Coder Byte](https://coderbyte.com/)
+1. [Project Euler](https://projecteuler.net/)
+2. [Codewars](https://www.codewars.com/)
+3. [Coder Byte](https://coderbyte.com/)
+
 For more code challenge sites see 'Online Games' of [this google doc](https://docs.google.com/document/d/1K-FDmLzGuYkasZpv9A1gTEV396rtWAi1bnCDh2uE7Q0/edit).
 
 ========================================================================
