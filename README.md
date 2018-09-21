@@ -1,7 +1,7 @@
 # CodeChallenges
-Repository for all the online challenges I work on.
+## Repository for all the online challenges I work on.
 
-Coding Challenge Websites:
+### Coding Challenge Websites:
 1. [Project Euler](https://projecteuler.net/)
 2. [Codewars](https://www.codewars.com/)
 3. [Coder Byte](https://coderbyte.com/)
