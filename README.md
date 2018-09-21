@@ -161,6 +161,16 @@ Descrition: SmallestMultiple ProjectEuler JavaScript
 URL to old repository: https://github.com/JamieBort/SmallestMultipleProjectEulerJavaScript
 ```
 
+Name: [CreatePhoneNumber](https://github.com/JamieBort/CodeChallenges/tree/master/CreatePhoneNumber/JavaScriptVersion)
+```
+Descrition: Create Phone Number, CodeWars, JavaScript (Completed), Java (Completed).
+```
+
+Name: [ExesAndOhs]()
+```
+Descrition: Exes and Ohs, Codewars, Java 
+```
+
 Name: []()
 ```
 Descrition: 
