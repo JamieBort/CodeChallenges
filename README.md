@@ -173,7 +173,7 @@ Descrition: LargestPrimeFactor, ProjectEuler, JavaScript,
 URL to old repository: https://github.com/JamieBort/LargestPrimeFactorProjectEulerJavaScript
 ```
 
-Name: [PrimeKFactorialProjectEulerJavaScript]()
+Name: [PrimeKFactorialProjectEulerJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/PrimeKFactorialProjectEulerJavaScript)
 ```
 Descrition: PrimeKFactorial ProjectEuler JavaScript
 URL to old repository: https://github.com/JamieBort/PrimeKFactorialProjectEulerJavaScript
