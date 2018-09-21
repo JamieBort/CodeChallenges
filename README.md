@@ -146,7 +146,7 @@ URL to old repository: https://github.com/JamieBort/MultiplesOf3And5ProjectEuler
 Next, move these:
 
 
-PrimeKFactorialProjectEulerJavaScript
+
 SmallestMultipleProjectEulerJavaScript
 Found here: https://github.com/JamieBort?utf8=%E2%9C%93&tab=repositories&q=projecteuler&type=&language=
 
@@ -179,230 +179,20 @@ Descrition: PrimeKFactorial ProjectEuler JavaScript
 URL to old repository: https://github.com/JamieBort/PrimeKFactorialProjectEulerJavaScript
 ```
 
+Name: [SmallestMultipleProjectEulerJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/SmallestMultipleProjectEulerJavaScript)
+```
+Descrition: SmallestMultiple ProjectEuler JavaScript
+URL to old repository: https://github.com/JamieBort/SmallestMultipleProjectEulerJavaScript
+```
+
 Name: []()
 ```
-Descrition:
+Descrition: 
 URL to old repository: 
 ```
 
 Name: []()
 ```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
-URL to old repository: 
-```
-
-Name: []()
-```
-Descrition:
+Descrition: 
 URL to old repository: 
 ```
