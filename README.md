@@ -145,7 +145,7 @@ URL to old repository: https://github.com/JamieBort/MultiplesOf3And5ProjectEuler
 
 Next, move these:
 
-LargestPrimeFactorProjectEulerJavaScript
+
 PrimeKFactorialProjectEulerJavaScript
 SmallestMultipleProjectEulerJavaScript
 Found here: https://github.com/JamieBort?utf8=%E2%9C%93&tab=repositories&q=projecteuler&type=&language=
@@ -167,16 +167,16 @@ Descrition: FactorialDigitSum, ProjectEuler, JavaScript,
 URL to old repository: https://github.com/JamieBort/FactorialDigitSumProjectEulerJavaScript
 ```
 
-Name: [LargestPrimeFactorProjectEulerJavaScript]()
+Name: [LargestPrimeFactorProjectEulerJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/LargestPrimeFactorProjectEulerJavaScript)
 ```
 Descrition: LargestPrimeFactor, ProjectEuler, JavaScript,
 URL to old repository: https://github.com/JamieBort/LargestPrimeFactorProjectEulerJavaScript
 ```
 
-Name: []()
+Name: [PrimeKFactorialProjectEulerJavaScript]()
 ```
-Descrition:
-URL to old repository: 
+Descrition: PrimeKFactorial ProjectEuler JavaScript
+URL to old repository: https://github.com/JamieBort/PrimeKFactorialProjectEulerJavaScript
 ```
 
 Name: []()
