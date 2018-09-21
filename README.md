@@ -168,7 +168,7 @@ Descrition: Create Phone Number, CodeWars, JavaScript (Completed), Java (Complet
 
 Name: [ExesAndOhs](https://github.com/JamieBort/CodeChallenges/tree/master/ExesAndOhs)
 ```
-Descrition: Exes and Ohs, Codewars, Java 
+Descrition: Exes and Ohs, Codewars, Java (Complete),  
 ```
 
 Name: []()
