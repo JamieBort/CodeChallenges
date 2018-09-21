@@ -1,30 +1,6 @@
 # CodeChallenges
 Repository for all the online challenges I work on.
 
-To-Do:
-
-[X] 1. 
-        Move the following repositories into this one. Make note of the following:
-
-            a. which language
-            b. which website
-            c. who, if anyone, I pair programmed with
-            d. and whether the challenge was complete.
-
-        Follow this procedure:
-
-            a. One by one move it into this repository.
-            b. Delete the old repository.
-            c. Move one more into this repository.
-            d. Delete the old one. 
-            e. Etc.
-
-[X] 2. Also, make note of Josh's repository here too.
-
-[Josh's repository for the pair programming he and I have been doing.](https://github.com/JoshEdgell/pairprogramming)
-
-========================================================================
-
 Coding Challenge Websites:
 1. [Project Euler](https://projecteuler.net/)
 2. [Codewars](https://www.codewars.com/)
@@ -32,7 +8,7 @@ Coding Challenge Websites:
 
 For more code challenge sites see 'Online Games' of [this google doc](https://docs.google.com/document/d/1K-FDmLzGuYkasZpv9A1gTEV396rtWAi1bnCDh2uE7Q0/edit).
 
-========================================================================
+
 
 Name: [MagicTheGathering-2-ManaCodeWarsJavaScrip](https://github.com/JamieBort/CodeChallenges/tree/master/MagicTheGathering-2-ManaCodeWarsJavaScrip)
 ```
