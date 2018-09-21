@@ -144,7 +144,7 @@ URL to old repository: https://github.com/JamieBort/MultiplesOf3And5ProjectEuler
 ```
 
 Next, move these:
-EvenFibonacciNumbersProjectEulerJavaScript
+
 FactorialDigitSumProjectEulerJavaScript
 LargestPrimeFactorProjectEulerJavaScript
 PrimeKFactorialProjectEulerJavaScript
@@ -156,16 +156,16 @@ Name: [BattleShipsSunkDamagedOrNotTouched](https://github.com/JamieBort/CodeChal
 Descrition: Pair protrammed with Josh Edgell, CodeWars, JavaScript
 ```
 
-Name: [EvenFibonacciNumbersProjectEulerJavaScript]()
+Name: [EvenFibonacciNumbersProjectEulerJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/EvenFibonacciNumbersProjectEulerJavaScript)
 ```
 Descrition: EvenFibonacciNumbers, ProjectEuler, JavaScript,
 URL to old repository: https://github.com/JamieBort/EvenFibonacciNumbersProjectEulerJavaScript
 ```
 
-Name: []()
+Name: [FactorialDigitSumProjectEulerJavaScript]()
 ```
-Descrition:
-URL to old repository: 
+Descrition: FactorialDigitSum, ProjectEuler, JavaScript,
+URL to old repository: https://github.com/JamieBort/FactorialDigitSumProjectEulerJavaScript
 ```
 
 Name: []()
