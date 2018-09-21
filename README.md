@@ -169,11 +169,9 @@ URL to old repository: https://github.com/JamieBort/SmallestMultipleProjectEuler
 Name: []()
 ```
 Descrition: 
-URL to old repository: 
 ```
 
 Name: []()
 ```
 Descrition: 
-URL to old repository: 
 ```
