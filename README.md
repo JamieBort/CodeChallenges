@@ -166,7 +166,7 @@ Name: [CreatePhoneNumber](https://github.com/JamieBort/CodeChallenges/tree/maste
 Descrition: Create Phone Number, CodeWars, JavaScript (Completed), Java (Completed).
 ```
 
-Name: [ExesAndOhs]()
+Name: [ExesAndOhs](https://github.com/JamieBort/CodeChallenges/tree/master/ExesAndOhs)
 ```
 Descrition: Exes and Ohs, Codewars, Java 
 ```
