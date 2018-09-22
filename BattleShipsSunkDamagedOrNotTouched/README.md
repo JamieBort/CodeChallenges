@@ -12,7 +12,7 @@ Boats are placed either horizontally, vertically or diagonally on the board. 0 r
 
 ## Attacks
 Attacks are calculated from the bottom left, first the X coordinate then the Y. There will be at least one attack per game, and the array will not contain duplicates.
-```[[2, 1], [1, 3], [4, 2]];
+`[[2, 1], [1, 3], [4, 2]];`
 * First attack      `[2, 1] = 3`
 * Second attack `[1, 3] = 0`
 * Third attack     `[4, 2] = 1`
