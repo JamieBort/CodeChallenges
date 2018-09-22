@@ -36,6 +36,7 @@ damagedOrSunk(board, attacks);
 * `notTouched/not_touched` = all boats that have not been hit at least once
 # Output
 You should return a hash with the following data
+
 `'sunk', 'damaged', 'notTouched', 'points'`
 # Example Game Output
 In our above example..
