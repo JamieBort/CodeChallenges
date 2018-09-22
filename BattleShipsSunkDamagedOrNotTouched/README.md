@@ -31,9 +31,9 @@ damagedOrSunk(board, attacks);
 * 0.5 points for each boat hit at least once (not including boats that are sunk).
 * -1 point for each whole boat that was not hit at least once.
 # Sunk or Damaged
-* sunk = all boats that are sunk
-* damaged = all boats that have been hit at least once but not sunk
-* notTouched/not_touched = all boats that have not been hit at least once
+* `sunk` = all boats that are sunk
+* `damaged` = all boats that have been hit at least once but not sunk
+* `notTouched/not_touched` = all boats that have not been hit at least once
 # Output
 You should return a hash with the following data
 ``sunk`, `damaged`, `notTouched`, `points``
