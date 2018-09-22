@@ -17,7 +17,8 @@ Attacks are calculated from the bottom left, first the X coordinate then the Y. 
 * Second attack `[1, 3] = 0`
 * Third attack     `[4, 2] = 1`
 # Function Initialization
-```board = [[0,0,0,2,2,0],
+```
+board = [[0,0,0,2,2,0],
          [0,3,0,0,0,0],
          [0,3,0,1,0,0],
          [0,3,0,1,0,0]];
