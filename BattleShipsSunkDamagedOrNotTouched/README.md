@@ -2,7 +2,7 @@ from: https://www.codewars.com/kata/battle-ships-sunk-damaged-or-not-touched/tra
 
 The file named ['battle.js'](https://github.com/JamieBort/CodeChallenges/blob/master/BattleShipsSunkDamagedOrNotTouched/battle.js) was pair protrammed with Josh Edgell. Not done. CodeWars JavaScript.
 
-The file named ['BattleShips.js'](https://github.com/JamieBort/CodeChallenges/blob/master/BattleShipsSunkDamagedOrNotTouched/BattleShips.js) is being written by me alone.
+The file named ['BattleShips.js'](https://github.com/JamieBort/CodeChallenges/blob/master/BattleShipsSunkDamagedOrNotTouched/BattleShips.js) is being written by me alone. Not yet done.
 
 # Task
 Your task in the kata is to determine how many boats are sunk damaged and untouched from a set amount of attacks. You will need to create a function that takes two arguments, the playing board and the attacks.
