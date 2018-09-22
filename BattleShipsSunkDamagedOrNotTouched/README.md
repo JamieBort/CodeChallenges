@@ -21,9 +21,10 @@ Attacks are calculated from the bottom left, first the X coordinate then the Y. 
          [0,3,0,0,0,0],
          [0,3,0,1,0,0],
          [0,3,0,1,0,0]];
-```
+
 attacks = [[2, 1], [1, 3], [4, 2]];
 damagedOrSunk(board, attacks);
+```
 # Scoring
 * 1 point for every whole boat sank.
 * 0.5 points for each boat hit at least once (not including boats that are sunk).
