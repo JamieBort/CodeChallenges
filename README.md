@@ -9,6 +9,10 @@
 For more code challenge sites see 'Online Games' of [this google doc](https://docs.google.com/document/d/1K-FDmLzGuYkasZpv9A1gTEV396rtWAi1bnCDh2uE7Q0/edit).
 
 ---
+### [Josh and my pair programming repository on his account](
+https://github.com/JoshEdgell/pairprogramming)
+
+---
 
 Name: [MagicTheGathering-2-ManaCodeWarsJavaScrip](https://github.com/JamieBort/CodeChallenges/tree/master/MagicTheGathering-2-ManaCodeWarsJavaScrip)
 ```
@@ -128,7 +132,7 @@ Found here: https://github.com/JamieBort?utf8=%E2%9C%93&tab=repositories&q=proje
 
 Name: [BattleShipsSunkDamagedOrNotTouched](https://github.com/JamieBort/CodeChallenges/tree/master/BattleShipsSunkDamagedOrNotTouched)
 ```
-Descrition: Pair protrammed with Josh Edgell, CodeWars, JavaScript
+Descrition: Pair protrammed with Josh Edgell, CodeWars, JavaScript, We completed it together. However I should do this one on my own.
 ```
 
 Name: [EvenFibonacciNumbersProjectEulerJavaScript](https://github.com/JamieBort/CodeChallenges/tree/master/EvenFibonacciNumbersProjectEulerJavaScript)
