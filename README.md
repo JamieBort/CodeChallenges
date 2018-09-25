@@ -10,7 +10,7 @@ For more code challenge sites see 'Online Games' of [this google doc](https://do
 
 ---
 [Josh and my pair programming repository on his account](
-https://github.com/JoshEdgell/pairprogramming)
+https://github.com/JoshEdgell/pairprogramming).
 
 ---
 
