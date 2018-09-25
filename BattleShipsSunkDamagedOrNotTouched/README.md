@@ -1,6 +1,6 @@
 from: https://www.codewars.com/kata/battle-ships-sunk-damaged-or-not-touched/train/javascript
 
-The file named ['battle.js'](https://github.com/JamieBort/CodeChallenges/blob/master/BattleShipsSunkDamagedOrNotTouched/battle.js) was pair protrammed with Josh Edgell. Not done. CodeWars JavaScript.
+The file named ['battle.js'](https://github.com/JamieBort/CodeChallenges/blob/master/BattleShipsSunkDamagedOrNotTouched/battle.js) was pair protrammed with Josh Edgell. CodeWars JavaScript. Completed.
 
 The file named ['BattleShips.js'](https://github.com/JamieBort/CodeChallenges/blob/master/BattleShipsSunkDamagedOrNotTouched/BattleShips.js) is being written by me alone. Not yet done.
 
