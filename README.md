@@ -175,7 +175,7 @@ Name: [ExesAndOhs](https://github.com/JamieBort/CodeChallenges/tree/master/ExesA
 Descrition: Exes and Ohs, Codewars, Java (Complete),  
 ```
 
-Name: [UniqueInOrder]()
+Name: [UniqueInOrder](https://github.com/JamieBort/CodeChallenges/tree/master/UniqueInOrder)
 ```
 Descrition: Unique In Order, Codewards, JavaScript, Pair Programmed with Josh, Completed
 ```
