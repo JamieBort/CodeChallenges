@@ -180,9 +180,9 @@ Name: [UniqueInOrder](https://github.com/JamieBort/CodeChallenges/tree/master/Un
 Descrition: Unique In Order, Codewards, JavaScript, Pair Programmed with Josh, Completed
 ```
 
-Name: []()
+Name: [SumWithoutHighestAndLowestNumber](https://github.com/JamieBort/CodeChallenges/tree/master/SumWithoutHighestAndLowestNumber)
 ```
-Descrition: 
+Descrition: CodeWars, Java, 
 ```
 
 Name: []()

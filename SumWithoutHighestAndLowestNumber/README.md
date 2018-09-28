@@ -15,6 +15,3 @@ If array is empty, null or None, or if only 1 Element exists, return 0.
 Note:In C++ instead null an empty vector is used. In C there is no null. ;-)
 
 `-- There's no null in Haskell, therefore Maybe [Int] is used. Nothing represents null.`
-
-```
--- There's no null in Haskell, therefore Maybe [Int] is used. Nothing represents null.
