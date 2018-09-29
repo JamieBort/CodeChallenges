@@ -182,7 +182,7 @@ Descrition: Unique In Order, Codewards, JavaScript, Pair Programmed with Josh, C
 
 Name: [SumWithoutHighestAndLowestNumber](https://github.com/JamieBort/CodeChallenges/tree/master/SumWithoutHighestAndLowestNumber)
 ```
-Descrition: CodeWars, Java, 
+Descrition: CodeWars, Java, Completed.
 ```
 
 Name: []()
