@@ -185,6 +185,21 @@ Name: [SumWithoutHighestAndLowestNumber](https://github.com/JamieBort/CodeChalle
 Descrition: CodeWars, Java, Completed.
 ```
 
+Name: [IntegerToRoman]()
+```
+Descrition: LeetCode, JavaScript, Pair programmed with Josh, Started brainstorming, didn't work on it with Josh yet.
+```
+
+Name: []()
+```
+Descrition: 
+```
+
+Name: []()
+```
+Descrition: 
+```
+
 Name: []()
 ```
 Descrition: 
