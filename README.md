@@ -190,9 +190,9 @@ Name: [IntegerToRoman](https://github.com/JamieBort/CodeChallenges/tree/master/I
 Descrition: LeetCode, JavaScript, Pair programmed with Josh, Started brainstorming, didn't work on it with Josh yet.
 ```
 
-Name: []()
+Name: [CodingChallenges](https://github.com/JamieBort/CodeChallenges/tree/master/CodingChallenges)
 ```
-Descrition: 
+Descrition: Moved this from it's own repository on github. Not sure of the fate of this; specifically the structure or location if it.
 ```
 
 Name: []()
