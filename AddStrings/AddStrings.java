@@ -24,7 +24,8 @@ class Solution {
         for(int index = 0; index < minlength; index++){
             
         int number1 = Character.getNumericValue(num1.charAt(length1 - index-1)); // this is a static method
-        int number2 = Character.getNumericValue(num2.charAt(length2 - index-1)) ;         int num3 = number1 + number2 + Carry;
+        int number2 = Character.getNumericValue(num2.charAt(length2 - index-1)) ;         
+        int num3 = number1 + number2 + Carry;
             Carry = num3/10;
             out.append(num3%10);
         }

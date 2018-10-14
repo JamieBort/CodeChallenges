@@ -290,3 +290,8 @@ Name: []()
 ```
 Descrition: 
 ```
+
+Homework for me to read up on:
+Using vs code for Java:
+[formatting](https://marketplace.visualstudio.com/items?itemName=redhat.java) and this [installation](https://marketplace.visualstudio.com/items?itemName=pverest.java-ide-pack)
+And my last challenge with Angur, [AddStrings](https://github.com/JamieBort/CodeChallenges/tree/master/AddStrings).
