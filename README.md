@@ -299,3 +299,8 @@ Using vs code for Java:
 [installation](https://marketplace.visualstudio.com/items?itemName=pverest.java-ide-pack)
 
 And my last challenge with Angur, [AddStrings](https://github.com/JamieBort/CodeChallenges/tree/master/AddStrings).
+
+Also, this is apparently installed too. But why and what does it do?
+https://github.com/vscode-icons/vscode-icons/blob/master/README.md
+and
+https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-file-icon-theme

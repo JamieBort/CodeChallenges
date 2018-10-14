@@ -13,3 +13,11 @@ public class StopWatch(){
 
 
 }
+
+To considder for this challenge:
+https://docs.oracle.com/javase/8/docs/api/java/time/Instant.html
+https://docs.oracle.com/javase/8/docs/api/java/time/temporal/Temporal.html
+https://docs.oracle.com/javase/8/docs/api/java/time/Duration.html
+https://docs.oracle.com/javase/8/docs/api/java/time/Duration.html#between-java.time.temporal.Temporal-java.time.temporal.Temporal-
+https://docs.oracle.com/javase/8/docs/api/java/time/Clock.html
+https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html
