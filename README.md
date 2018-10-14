@@ -190,14 +190,14 @@ Name: [IntegerToRoman](https://github.com/JamieBort/CodeChallenges/tree/master/I
 Descrition: LeetCode, JavaScript, Pair programmed with Josh, Started brainstorming, didn't work on it with Josh yet.
 ```
 
-Name: []()
+Name: [StopWatchLeetCodeJava](https://github.com/JamieBort/CodeChallenges/tree/master/StopWatchLeetCodeJava)
 ```
-Descrition: 
+Descrition: LeetCode, Pair program with Ankur, Java, Completed, need to try on my own.
 ```
 
-Name: []()
+Name: [BlackJackLeetCodeJava](https://github.com/JamieBort/CodeChallenges/tree/master/BlackJackLeetCodeJava)
 ```
-Descrition: 
+Descrition: LeetCode, Pair program with Ankur, Java, Not started
 ```
 
 Name: []()
