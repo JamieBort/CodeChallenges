@@ -304,3 +304,6 @@ Also, this is apparently installed too. But why and what does it do?
 https://github.com/vscode-icons/vscode-icons/blob/master/README.md
 and
 https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-file-icon-theme
+
+Also, what benefit does jshint library in vs Code add to quokka?
+As a reminder I ran "npm install -g jshint" and am using quokka.
