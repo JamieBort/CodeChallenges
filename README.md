@@ -211,7 +211,7 @@ Name: [AddTwoNumbers](https://leetcode.com/problems/add-two-numbers/)
 Descrition: LeetCode, Java, Not started
 ```
 
-Name: [TheMuseumOfIncredibleDullThings]()
+Name: [TheMuseumOfIncredibleDullThings](https://github.com/JamieBort/CodeChallenges/tree/master/TheMuseumOfIncredibleDullThings)
 ```
 Descrition: JavaScript, CodeWars, Pair Programmed with Josh Edgell, Completed
 ```
