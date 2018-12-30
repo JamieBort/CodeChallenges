@@ -2,10 +2,11 @@
 ## Repository for all the online challenges I work on.
 
 ### Coding Challenge Websites:
-1. [Project Euler](https://projecteuler.net/)
-2. [Codewars](https://www.codewars.com/)
-3. [Coder Byte](https://coderbyte.com/)
-4. [LeetCode](https://leetcode.com)
+1. [Project Euler](https://projecteuler.net/).
+2. [Codewars](https://www.codewars.com/).
+3. [HackerRank](https://www.hackerrank.com/dashboard).
+4. [Coder Byte](https://coderbyte.com/).
+5. [LeetCode](https://leetcode.com).
 
 For more code challenge sites see 'Online Games' of [this google doc](https://docs.google.com/document/d/1K-FDmLzGuYkasZpv9A1gTEV396rtWAi1bnCDh2uE7Q0/edit).
 
