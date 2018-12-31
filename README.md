@@ -217,9 +217,9 @@ Name: [TheMuseumOfIncredibleDullThings](https://github.com/JamieBort/CodeChallen
 Descrition: JavaScript, CodeWars, Pair Programmed with Josh Edgell, Completed
 ```
 
-Name: []()
+Name: [PentagonNumbers](https://github.com/JamieBort/CodeChallenges/tree/master/PentagonNumbers)
 ```
-Descrition: 
+Descrition: PentagonNumbers, ProjectEuler, JavaScript,
 ```
 
 Name: []()
