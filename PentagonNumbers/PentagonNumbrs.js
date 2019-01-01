@@ -3,74 +3,74 @@
 // It can be seen that P4 + P7 = 22 + 70 = 92 = P8. However, their difference, 70 − 22 = 48, is not pentagonal.
 // Find the pair of pentagonal numbers, Pj and Pk, for which their sum and difference are pentagonal and D = |Pk − Pj| is minimised; what is the value of D?
 
-// Generating Pentaginal Numbers
-// Generating Pn Array
-var myPnArray = [];
-function PnArray(t) {
-
-    for (i = 1; i < t + 1; i++) {
-        var P = i * (3 * i - 1) / 2;
-        myPnArray.push(P);
+// Create my function that does everything.
+function myFunction(n) {
+    // 1. Pupulate an array that consists of pentagonal numbers.
+    var myPnArray = [];
+    function PnArray(n) {
+        for (i = 1; i < n + 1; i++) {
+            var P = i * (3 * i - 1) / 2;
+            myPnArray.push(P);
+        }
+        console.log("P" + n + " is: ", myPnArray[n - 1]);
+        console.log("The complete array is: ", myPnArray);
     }
-    console.log("P" + t + " is: ", myPnArray[t - 1]);
-}
+    PnArray(n);
 
-// Function summing the two pentaginal numbers.
-function PnSum(first, second) {
-    console.log("The sum of the two is: ", first + second);
-    return first + second;
-}
+    // 2. Create an array of objects that consists of  the following:
+    //      The first pentagonal number.
+    //      The second pentagonal number.
+    //      The sum of the first and second pentagonal numbers.
+    //      The difference between the first and second pentagonal numbers.
 
-// Function finding the difference between the two pentaginal numbers.
-function PnDifference(first, second) {
-    if (second > first) {
-        var third = 0;
-        third = second;
-        second = first;
-        first = third;
-        console.log("Second is greater than first.");
-        // console.log("The third is: ",third);
-        // console.log("The second is: ", second);
-        // console.log("The First is :", first);
-    }
-    console.log("The difference between the two are of the two is: ", first - second);
-}
+    // The array created to contain the objects that I am generating below.
+    var myArray = [
+        {
+            firstNumber: myPnArray[0],
+            secondNumber: myPnArray[0]
+        }
+    ];
+    console.log("My array of objects: ", myArray);
 
-// PnArray(100); // An array of the first 100 pentagonal numbers.
-PnArray(7);
-console.log("The myPnArray is ", myPnArray);
-console.log("The length of myPnArray is ", myPnArray.length);
-
-// Generate object with the firest number, the second number, the sum of the two, and the difference of the two.
-var myObject = {};
-function createMyObject(firstNum, secondNum, sum, diff) {
-    myObject.firstNum = firstNum;
-    // Index of first number.
-    myObject.secondNum = secondNum;
-    // Index of second number.
-    myObject.sum = firstNum + secondNum;
-    // does the sum exist in the array?
-    myObject.sumExists = myPnArray.indexOf(myObject.sum);
-    myObject.diff = Math.abs(firstNum - secondNum);
-    // does the difference exist in the array?
-    myObject.diffExists = myPnArray.indexOf(myObject.dif);
-}
-createMyObject(myPnArray[3], myPnArray[2]);
-console.log(myObject);
-
-// Create an array of ojbects. Once 'myObject.diffExists' AND 'myObject.sumExists', stop and output the two
-
-
-
-// For each pair of numbers in PnArray we have to add and then see if that sum is in PnArray.
-console.log(myPnArray[0]);
-
-var sumArray = [];
-for (i < 0; i < myPnArray.length; i++) {
-    for (j < 0; j < myPnArray.length; j++) {
-        // sumArray.push(myPnArray[0] + myPnArray[0]);
-        sumArray.push(7);
+    for (var i = 0; i < n; i++) {
+        for (var j = 0; j < n; j++) {
+            if (myArray[0].firstNumber === myPnArray[0] && myArray[0].firstNumber === myPnArray[0]) {
+                console.log("The " + i + "th object already contains the numbers " + myPnArray[0] + " and " + myPnArray[0] + ": ", myArray[i], "So don't push them into myArray.");
+            } else {
+                myArray.push({
+                    firstNumber: myPnArray[i],
+                    secondNumber: myPnArray[j]
+                });
+            }
+        }
     }
 
+    // Below eliminates duplicate pairs of numbers.
+    //     for (i = 0; i < 4; i++) {
+    //         for (j = 0; j < 4; j++) {
+    //             if (myArray[i].firstNumber === myPnArray[1] && myArray[j].secondNumber === myPnArray[0]) {
+    //                 console.log("Hello");
+    //             } else {
+    //                 // push it in there.
+    //             }
+    //         }
+    //     }
+
+    console.log("My array of objects: ", myArray);
+
+    // My If statement below. Checking for existance of a specific pair of numbers.
+    // if(myArray[3].firstNumber===myPnArray[1] && myArray[3].secondNumber===myPnArray[1]){
+    //     console.log("This is what is found: ",myArray[3]);
+    // }
+
+    // Define object with the firest number, the second number, the sum of the two, and the difference of the two.
+
+    // console.log("The objectArray is: ", objectArray);
+    // console.log("The length of the objectArray is: ", objectArray.length);
+
+
+
+    // 3. Check to see if the sum of the first and second pentagonal numbers are in the array of pentagonal numbers.
+    // 4. Check to see if the difference between the first and second pentagonal numbers
 }
-console.log(sumArray);
+myFunction(2);
