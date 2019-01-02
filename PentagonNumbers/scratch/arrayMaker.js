@@ -17,3 +17,8 @@ arrayMaker(originalArray[1],originalArray[4]);
 arrayMaker(originalArray[2],originalArray[3]);
 arrayMaker(originalArray[3],originalArray[4]);
 console.log(arrayOfArrays);
+
+for (i = 0; i < originalArray.length; i++){
+    let j = 1;
+    arrayMaker(originalArray[i],)
+}
