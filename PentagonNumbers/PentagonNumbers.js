@@ -7,6 +7,7 @@
 function myFunction(n) {
     // 1. Pupulate an array that consists of pentagonal numbers.
     var myPnArray = [];
+    // PnArray(n);
     function PnArray(n) {
         for (i = 1; i < n + 1; i++) {
             var P = i * (3 * i - 1) / 2;
@@ -25,23 +26,42 @@ function myFunction(n) {
 
     // The array created to contain the objects that I am generating below.
     var myArray = [
-        {
-            firstNumber: myPnArray[0],
-            secondNumber: myPnArray[0]
-        }
+        // {
+            // firstNumber: myPnArray[0]
+        //     // firstNumber: 100,
+        //     secondNumber: myPnArray[0]
+        // }
     ];
-    console.log("My array of objects: ", myArray);
+    // console.log("My array of objects: ", myArray);
 
     for (var i = 0; i < n; i++) {
         for (var j = 0; j < n; j++) {
-            if (myArray[0].firstNumber === myPnArray[0] && myArray[0].firstNumber === myPnArray[0]) {
-                console.log("The " + i + "th object already contains the numbers " + myPnArray[0] + " and " + myPnArray[0] + ": ", myArray[i], "So don't push them into myArray.");
-            } else {
-                myArray.push({
-                    firstNumber: myPnArray[i],
-                    secondNumber: myPnArray[j]
-                });
-            }
+            // We want the program to see that '{ firstNumber: 1, secondNumber: 1 }' is already in the array. 
+            // And consequently to skip pushing those pairs of numbers into the array. 
+            // Hence the 'if' statement.
+
+            // if (myPnArray[0] === myArray[i].firstNumber && myPnArray[0] === myArray[j].secondNumber) {
+            //     console.log("When i is " + i + " and j is " + j + " the object already contains the numbers " + myPnArray[0] + " and " + myPnArray[0] + ": ", myArray[i], "So don't push them into myArray.");
+            //     j++;
+            // }
+
+            // if (true) {
+            // if (i > 0) { // Which one to use? "i > 0" or "j > 0"?
+            // if (j > 0) { // Which one to use? "i > 0" or "j > 0"?
+                // console.log("i is: " + i + " and j is :" + j + ". myArray[" + i + "] is ", myArray[i]);
+                // if (myArray[0] === "{ firstNumber: 1, secondNumber: 1 }") {
+                    // if (myArray[0].firstNumber === 1 && myArray[0].secondNumber === 1) {
+                        // if (myArray[0].secondNumber === 1) {
+                    // if(true){
+                    // console.log("I have isolated ", myArray[0].firstNumber);
+                    // console.log("I have isolated ", myArray[0]);
+                    // j++;
+                // }
+            // }
+            myArray.push({
+                firstNumber: myPnArray[i],
+                secondNumber: myPnArray[j]
+            });
         }
     }
 
@@ -56,7 +76,7 @@ function myFunction(n) {
     //         }
     //     }
 
-    console.log("My array of objects: ", myArray);
+    console.log("My array of objects is: ", myArray);
 
     // My If statement below. Checking for existance of a specific pair of numbers.
     // if(myArray[3].firstNumber===myPnArray[1] && myArray[3].secondNumber===myPnArray[1]){
@@ -73,4 +93,5 @@ function myFunction(n) {
     // 3. Check to see if the sum of the first and second pentagonal numbers are in the array of pentagonal numbers.
     // 4. Check to see if the difference between the first and second pentagonal numbers
 }
-myFunction(2);
+myFunction(3);
+// myFunction(2);
