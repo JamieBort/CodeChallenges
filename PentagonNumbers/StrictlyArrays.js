@@ -3,38 +3,54 @@
 // It can be seen that P4 + P7 = 22 + 70 = 92 = P8. However, their difference, 70 − 22 = 48, is not pentagonal.
 // Find the pair of pentagonal numbers, Pj and Pk, for which their sum and difference are pentagonal and D = |Pk − Pj| is minimised; what is the value of D?
 
-// Create my function that does everything.
+
+var myArray;
+var myObject = new Object();
+
 function myFunction(n) {
-    // 1. Pupulate an array that consists of pentagonal numbers.
-    var myPnArray = [];
-    // PnArray(n);
-    function PnArray(n) {
-        for (i = 1; i < n + 1; i++) {
-            var P = i * (3 * i - 1) / 2;
-            myPnArray.push(P);
-        }
-        console.log("P" + n + " is: ", myPnArray[n - 1]);
-        console.log("The complete array is: ", myPnArray);
+
+    myArray = [];
+
+    // Generate an array of the pentaginal numbers.
+    for (i = 1; i <= n; i++) {
+        var Pn = i * (3 * i - 1) / 2;
+        myArray.push(Pn);
     }
-    PnArray(n);
 
-    // Now to generate an array of arrays.
-    // var arrayOfArrays = [];
-    // function arrayMaker (a,b){
-    //     var dummyArray = [];
-    //     dummyArray.push(a);
-    //     dummyArray.push(b);
-    //     arrayOfArrays.push(dummyArray)
-    // }
-    myPnArray.forEach(element => {
-        console.log("Hello");
-    });
-    // for (i = 0; i < myPnArray.length; i++) {
-        // console.log("Hello");
-        // console.log("the PNArray is ", myPnArray.length);
-    // }
+    // Generate object with sum and difference
+    function contains(a, b) {
+        myObject.whichNumbers = [a, b];
+        myObject.myArray = myArray;
+        myObject.n = n;
+        myObject.firstNumber = myArray[a];
+        myObject.secondNumber = myArray[b];
+        myObject.sum = myArray[b] + myArray[a];
+        myObject.diff = myArray[b] - myArray[a];
+        myObject.includeSUM = myArray.includes(myObject.sum);
+        myObject.includeDIFF = myArray.includes(myObject.diff);
+        console.log("Third object is: ", myObject);
+    }
 
-    
+    // For each pair of numbers in the array we need to check to see if the sum AND difference is in the original array.
+
+//  We now have four objects. 
+// The thrid one is a duplicate of the second one. 
+// Shoud we use 'myObject.whichNumbers' to address the duplicate? 
+// Shoud we use 'myObject.includeSUM' and 'myObject.includeDIFF' to address the duplicate? 
+// Shoud we use something else to address the duplicate? 
+
+    function check() {
+        for (i = 0; i < myArray.length; i++) {
+            for (j = 0; j < myArray.length; j++) {
+                let t = 0;
+                console.log("i is: ", i, ". j is: ", j, ". t is ", t);
+                contains(j, i);
+            }
+        }
+    }
+    check();
+
 }
-myFunction(4);
-// myFunction(2);
+myFunction(2);
+
+// console.log("First object is: ", myObject);
