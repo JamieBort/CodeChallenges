@@ -1,5 +1,4 @@
 function drive(drinks, finished, drive_time) {
-
     // On average it takes a person 1 hour for their body to remove 1 unit of alcohol.
     // Data passed will be in the format ([[strength,volume]], finished, drive_time). Where finished is the time you stopped drinking and drive_time is the time you would like to drive.
     // Return total units to 2 decimal places rounded. For example 1.10 => 1.1 and 1.236 => 1.24
@@ -22,13 +21,10 @@ function drive(drinks, finished, drive_time) {
     }
     timeStringToMinutesInteger(finished);
     timeStringToMinutesInteger(drive_time);
-    // console.log("the time array: ", timeArray); // <------- Not needed.
 
     // If the finished >= drive_time then you can assume that it is the next day.
     if (timeArray[0] > timeArray[1]) {
-        // console.log("it's the next day"); // <------- Not needed.
         timeArray[0] = 24 * 60 - timeArray[0];
-        // console.log(timeArray); // <------- Not needed.
 
         // elapsedTime is the time difference in minutes between when the person stops drinking and when they want to start driving.
         var elapsedTime = timeArray[1] + timeArray[0];
@@ -37,13 +33,9 @@ function drive(drinks, finished, drive_time) {
     }
 
     // Return true if you are able to drive and false if you are not.
-    // console.log("the elapsed time is: ", elapsedTime); // <------- Not needed.
-    // console.log("the units is: ", units); // <------- Not needed.
     const expectedArray = [];
-    // expectedArray.push(elapsedTime);
     expectedArray.push(units);
 
-    // console.log(typeof(units)); // <------- Not needed.
     if (elapsedTime <= 60 * units) {
         console.log("Not enought time has passed");
         expectedArray.push(false);
@@ -51,7 +43,6 @@ function drive(drinks, finished, drive_time) {
         console.log("Enought time has passed");
         expectedArray.push(true);
     }
-    console.log(expectedArray); // <------- Not needed.
     return expectedArray;
 }
 

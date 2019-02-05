@@ -1,9 +1,6 @@
-from: https://www.codewars.com/kata/am-i-safe-to-drive/train/javascript
-
-Not done. Come back to.
-Note: Josh drove on this one. If I attempt, try from scrach.
-
 # Am I Safe To Drive
+
+from: https://www.codewars.com/kata/am-i-safe-to-drive/train/javascript
 
 ## Introduction
 Drink driving is an issue all around the world! On average 3,000 people are killed or seriously injured each year in drink drive collisions, nearly one in six of all deaths on the road involve drivers who are over the legal alcohol limit. 
