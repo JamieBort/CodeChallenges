@@ -191,7 +191,7 @@ Descrition: CodeWars, Java, Completed.
 
 Name: [IntegerToRoman](https://github.com/JamieBort/CodeChallenges/tree/master/IntegerToRoman)
 ```
-Descrition: LeetCode, JavaScript, Pair programmed with Josh, Started brainstorming, didn't work on it with Josh yet.
+Descrition: LeetCode, JavaScript, Completed. However there's room to clean up/refactor.
 ```
 
 Name: [StopWatchLeetCodeJava](https://github.com/JamieBort/CodeChallenges/tree/master/StopWatchLeetCodeJava)
