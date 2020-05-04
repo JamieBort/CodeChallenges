@@ -2,6 +2,9 @@ I am in the process of moving all of these files and directories into the approp
 
 For example, if the coding challenge is done in JavaScript, it'll go into this [JavaScript directory](https://github.com/JamieBort/LearningDirectory/tree/master/JavaScript/CodingChallenges).
 
+See this Trello card:
+https://trello.com/c/OrBJvM2R/878-finish-the-task-of-moving-these-files-over
+
 ==============================
 
 ~~add this:
