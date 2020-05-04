@@ -1,5 +1,24 @@
-add this:
-https://keep.google.com/u/0/#search/text%253Dcode%252Cchallenge
+I am in the process of moving all of these files and directories into the appropriate directories of [this repo](https://github.com/JamieBort/LearningDirectory).
+
+For example, if the coding challenge is done in JavaScript, it'll go into this [JavaScript directory](https://github.com/JamieBort/LearningDirectory/tree/master/JavaScript/CodingChallenges).
+
+==============================
+
+~~add this:
+https://keep.google.com/u/0/#search/text%253Dcode%252Cchallenge~~ **DONE - see below**
+
+bubble sort first.
+merge sort be comfortable with recursion
+maybe sue filter on these too.
+
+
+https://www.coderbyte.com/editor/guest:Scale%20Balancing:JavaScript
+
+https://www.coderbyte.com/editor/guest:Vowel%20Square:JavaScript
+
+https://www.coderbyte.com/editor/guest:Questions%20Marks:JavaScript
+
+==============================
 
 # CodeChallenges
 ## Repository for all the online challenges I work on.
