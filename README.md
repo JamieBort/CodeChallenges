@@ -38,6 +38,25 @@ https://github.com/JoshEdgell/pairprogramming).
 
 ---
 
+Homework for me to read up on:
+
+Using vs code for Java:
+
+[formatting](https://marketplace.visualstudio.com/items?itemName=redhat.java) and this 
+[installation](https://marketplace.visualstudio.com/items?itemName=pverest.java-ide-pack)
+
+And my last challenge with Angur, [AddStrings](https://github.com/JamieBort/CodeChallenges/tree/master/AddStrings).
+
+Also, this is apparently installed too. But why and what does it do?
+https://github.com/vscode-icons/vscode-icons/blob/master/README.md
+and
+https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-file-icon-theme
+
+Also, what benefit does jshint library in vs Code add to quokka?
+As a reminder I ran "npm install -g jshint" and am using quokka.
+
+---
+
 Name: [MagicTheGathering-2-ManaCodeWarsJavaScrip](https://github.com/JamieBort/CodeChallenges/tree/master/MagicTheGathering-2-ManaCodeWarsJavaScrip)
 ```
 Descrition: MagicTheGathering#2:Mana, CodeWars, JavaScrip, Pair Programmed with Josh Edgell, 
@@ -242,90 +261,3 @@ Name: [PentagonNumbers](https://github.com/JamieBort/CodeChallenges/tree/master/
 ```
 Descrition: PentagonNumbers, ProjectEuler, JavaScript,
 ```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Name: []()
-```
-Descrition: 
-```
-
-Homework for me to read up on:
-
-Using vs code for Java:
-
-[formatting](https://marketplace.visualstudio.com/items?itemName=redhat.java) and this 
-[installation](https://marketplace.visualstudio.com/items?itemName=pverest.java-ide-pack)
-
-And my last challenge with Angur, [AddStrings](https://github.com/JamieBort/CodeChallenges/tree/master/AddStrings).
-
-Also, this is apparently installed too. But why and what does it do?
-https://github.com/vscode-icons/vscode-icons/blob/master/README.md
-and
-https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-file-icon-theme
-
-Also, what benefit does jshint library in vs Code add to quokka?
-As a reminder I ran "npm install -g jshint" and am using quokka.
