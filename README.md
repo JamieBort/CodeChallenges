@@ -1,3 +1,5 @@
+# CodeChallenges
+
 I am in the process of moving all of these files and directories into the appropriate directories of [this repo](https://github.com/JamieBort/LearningDirectory).
 
 For example, if the coding challenge is done in JavaScript, it'll go into this [JavaScript directory](https://github.com/JamieBort/LearningDirectory/tree/master/JavaScript/CodingChallenges).
